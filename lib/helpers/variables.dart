@@ -1,6 +1,7 @@
 dynamic variables = {
-  'colors' : {
-    'primary' : '',
-    'secondary' : '',
+  'connection': {
+    'network': false,
+    'type': 'none',
+    'connection': false,
   }
 };
