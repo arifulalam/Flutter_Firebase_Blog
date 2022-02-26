@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_firebase_blog/controllers/user_controller.dart';
 import 'package:flutter_firebase_blog/helpers/constants.dart';
 import 'package:flutter_firebase_blog/helpers/functions.dart';
-import 'package:flutter_firebase_blog/ui/about.dart';
 import 'package:flutter_firebase_blog/ui/screener.dart';
 import 'package:flutter_firebase_blog/widgets/widgets.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
